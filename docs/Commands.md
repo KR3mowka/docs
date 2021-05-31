@@ -78,7 +78,7 @@ title: Commands
     - **Other Usage:** `!lyrics <song name>` - Gets the lyrics of the mentioned song.
     - **Aliases:** `l`, `ly`
 ---
-- **`!disconnect`** - Disconnects the bot from the voice channel it is in.
+- **`!fuckoff`** - Disconnects the bot from the voice channel it is in.
     - **Aliases:** `dc`, `leave`, `dis`
 ---
 
